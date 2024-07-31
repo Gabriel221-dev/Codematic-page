@@ -99,7 +99,7 @@ function home() {
             </article>
           </content>
           <div className="img3">
-            <img src="/Images/Metrics.png" alt="" />
+            <img src="/public/Images/Metrics.png" alt="" />
           </div>
         </container>
       </section>
@@ -179,7 +179,7 @@ function home() {
       </section>
       <section className="Home-5">
         <div className="img">
-          <img src="/Images/ImageYinka.png" alt="" />
+          <img src="/public/Images/ImageYinka.png" alt="" />
         </div>
         <container>
           <content className="article">
@@ -220,18 +220,18 @@ function home() {
             <div className="Team-6-1">
               <div className="Team-6">
                 <article className="Member-61">
-                  <img src="/Images/ImageIfe.png" alt="" />
+                  <img src="/public/Images/ImageIfe.png" alt="" />
                   <h2>Ife</h2>
                   <p>Data Analytics/ Data Engineering</p>
                 </article>
                 <article className="Member-62">
-                  <img src="/Images/ImageAYO.png" alt="" />
+                  <img src="/public/Images/ImageAYO.png" alt="" />
                   <h2>Ayomide</h2>
                   <p>Google Cloud and Open Source Software Development</p>
                 </article>
                 <article className="Member-63">
                   <img
-                    src="/Images/WhatsApp Image 2024-06-09 at 09.54.19 1Uche.png"
+                    src="/public/Images/WhatsApp Image 2024-06-09 at 09.54.19 1Uche.png"
                     alt=""
                   />
                   <h2>Uche</h2>

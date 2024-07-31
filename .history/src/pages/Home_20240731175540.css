@@ -516,7 +516,7 @@
 
     .row {
         flex-direction: column;
-        margin: -1rem;
+        gap: 0px;
     }
 
     .H-4-2 .part-1,

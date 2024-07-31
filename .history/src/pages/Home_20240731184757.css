@@ -526,7 +526,7 @@
     .H-4-2 .part-2,
     .H-4-2 .part-3,
     .H-4-2 .part-4 {
-        width: 24rem;
+        width: 27rem;
         padding: 1rem;
         height: auto;
     }
@@ -563,8 +563,8 @@
     .H-4-2 .part-2,
     .H-4-2 .part-3,
     .H-4-2 .part-4 {
-        width: 24rem;
-        padding: 1rem;
+        width: 27rem;
+        padding: 0.5rem;
         height: auto;
     }
 

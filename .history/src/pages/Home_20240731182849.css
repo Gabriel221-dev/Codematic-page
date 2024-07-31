@@ -96,9 +96,6 @@
 
 /* Tablet styles */
 @media (max-width: 768px) {
-    .Home-1{
-        background-color:red;
-    }
     .heading-1 {
         width: 90%;
         font-size: 2rem;
@@ -495,6 +492,8 @@
 @media (max-width: 768px) {
     .Home-4 {
         padding: 2rem;
+      background-color:red;
+
     }
 
     .H-4-2 .part-3, .H-4-2 .part-1{
@@ -526,7 +525,7 @@
     .H-4-2 .part-2,
     .H-4-2 .part-3,
     .H-4-2 .part-4 {
-        width: 24rem;
+        width: 17rem;
         padding: 1rem;
         height: auto;
     }
@@ -563,8 +562,8 @@
     .H-4-2 .part-2,
     .H-4-2 .part-3,
     .H-4-2 .part-4 {
-        width: 24rem;
-        padding: 1rem;
+        /* width: 100%; */
+        padding: 0.5rem;
         height: auto;
     }
 

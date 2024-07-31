@@ -1007,8 +1007,7 @@
     .Home-7 .action {
       flex-direction: column;
       gap: 1rem;
-      width: 30%;
-      text-align: center;
+      width: 50%;
     }
   
     .Home-7 .action a {

@@ -181,7 +181,7 @@ function home() {
         <div className="img">
           <img src="/Images/ImageYinka.png" alt="" />
         </div>
-        <div>
+        <container>
           <div className="heading-sub-5">
             <article>
               <div className="Founder">
@@ -202,7 +202,7 @@ function home() {
               </div>
             </article>
           </div>
-        </div>
+        </container>
       </section>
       <section className="Home-6">
         <container>

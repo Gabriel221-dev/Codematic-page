@@ -207,7 +207,7 @@
   /* Small mobile styles */
   @media only screen and (max-width: 430px) {
     .header {
-      width: auto;
+      width:fit-content;
     }
   
     .header__logo {

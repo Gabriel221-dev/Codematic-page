@@ -634,8 +634,7 @@
     }
 
     .Home-5 .Founder{
-        /* padding-right:-1rem; */
-        width: 100%;
+        padding: 0 1rem;
     }
   
     .Home-5 .Founder h1 {
@@ -651,17 +650,11 @@
     }
   
     .Home-5 img {
-    
-        padding-right: 3rem;
-        max-width: 100%;
+      max-width: 100%;
     }
   }
   
   @media (max-width: 390px) { /* iPhone 12 Pro screen size */
-
-    section{
-        padding: 2rem;
-    }
     .Home-5 {
       padding: 2rem;
       flex-direction: column;
@@ -992,7 +985,7 @@
   /* Tablet styles */
   @media only screen and (max-width: 768px) {
     .Home-7 {
-      padding: 1rem;
+      padding: 1.5rem;
     }
   
     .Home-7 h1 {
@@ -1007,13 +1000,10 @@
     .Home-7 .action {
       flex-direction: column;
       gap: 1rem;
-      width: 30%;
-      text-align: center;
     }
   
     .Home-7 .action a {
       justify-content: center;
-
     }
   }
   

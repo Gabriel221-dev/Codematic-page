@@ -87,6 +87,7 @@ const Header = () => {
                 </NavLink>
               </li>
             </ul>
+            <div className="divider"></div>
 
             <button
               className="header__menu"

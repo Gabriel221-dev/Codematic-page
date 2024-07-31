@@ -100,8 +100,8 @@ const Header = () => {
             <NavLink className="header__btn" to="/contact">
               Apply Now
             </NavLink>
+            <div className="divider"></div>
           </ul>
-
           <Sidebar isOpen={isSidebarToggled} onToggle={handleToggle} />
         </header>
       </IconContext.Provider>

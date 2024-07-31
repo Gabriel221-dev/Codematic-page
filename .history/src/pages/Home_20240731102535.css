@@ -1,8 +1,8 @@
 .Home{
     padding: 0 0;
-    margin: 0 0;
 }
 .Home-1{
+    /* background-color:red; */
     text-align: center;
     padding-top: 3rem;
 }
@@ -852,10 +852,6 @@
     .Team-6 p {
       font-size: 0.8rem;
     }
-
-    .Team-6 article .Member-62{
-        margin-left: 2rem;
-    }
   }
 
 
@@ -1061,7 +1057,7 @@
     }
 
     .Home-7 .learn-heading{
-        width: 4.1rem;
+        width: 4rem;
         margin-left:1rem ;
         height: 1rem;
     }

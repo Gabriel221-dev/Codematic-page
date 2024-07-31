@@ -6,12 +6,6 @@
     align-items: center;
     padding: 1rem 7rem;
   }
-
-.header .divider {
-    width: 100%;
-    border-bottom: 1px solid #000;
-    margin: 2rem 0;
-}
   
   /* @media only screen and (max-width: 850px) {
     .header {

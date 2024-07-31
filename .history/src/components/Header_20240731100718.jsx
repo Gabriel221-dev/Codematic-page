@@ -101,7 +101,7 @@ const Header = () => {
               Apply Now
             </NavLink>
           </ul>
-
+          <div className="divider"></div>
           <Sidebar isOpen={isSidebarToggled} onToggle={handleToggle} />
         </header>
       </IconContext.Provider>

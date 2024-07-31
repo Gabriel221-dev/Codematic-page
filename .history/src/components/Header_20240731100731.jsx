@@ -96,6 +96,7 @@ const Header = () => {
               <FaBars />
             </button>
           </nav>
+          <div className="divider"></div>
           <ul className="Btn">
             <NavLink className="header__btn" to="/contact">
               Apply Now

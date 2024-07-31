@@ -5,13 +5,8 @@
     /* justify-content: space-between; */
     align-items: center;
     padding: 1rem 7rem;
+    border-bottom:1px dotted grey 85%;
   }
-
-.header .divider {
-    width: 100%;
-    border-bottom: 1px solid #000;
-    margin: 2rem 0;
-}
   
   /* @media only screen and (max-width: 850px) {
     .header {

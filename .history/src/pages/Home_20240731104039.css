@@ -657,7 +657,6 @@
     
         padding-right: 3rem;
         max-width: 100%;
-        height: 15.5rem;
     }
   }
   
@@ -696,6 +695,7 @@
   
     .Home-5 img {
       max-width: 100%;
+      height: 10rem;
     }
   }
 
@@ -809,10 +809,6 @@
   
     .Team-6 article {
       margin: 1rem 0;
-    }
-
-    .Team-6 .Member-62{
-        margin-left: 2.2rem;
     }
   }
   

@@ -810,10 +810,6 @@
     .Team-6 article {
       margin: 1rem 0;
     }
-
-    .Team-6 .Member-62{
-        margin-left: 2.2rem;
-    }
   }
   
   @media (max-width: 390px) { /* iPhone 12 Pro screen size */

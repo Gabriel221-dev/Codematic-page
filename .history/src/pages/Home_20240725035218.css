@@ -1,0 +1,43 @@
+.Home-1{
+    background-color:red;
+    text-align: center;
+}
+.heading-sub{
+      text-align: center;
+}
+.apply-heading{
+    background-color:blue;
+    text-align: center;
+    margin: 0 1rem;
+}
+
+.learn-heading{
+    background-color: blue;
+    text-align: center;
+    padding: .2rem;
+    border-radius: solid  pink 20px;
+}
+
+.Home-2{
+    background-color:brown;
+}
+
+.Home-3{
+    background-color:chocolate;
+}
+
+.Home-4{
+    background-color:yellowgreen;
+}
+
+.Home-5{
+    background-color:violet;
+}
+
+.Home-6{
+    background-color:cadetblue;
+}
+
+.Home-7{
+    background-color:goldenrod;
+}

@@ -1,0 +1,82 @@
+.Home-1{
+    background-color:red;
+    text-align: center;
+}
+.mark{
+    background-color:white;
+    border-radius:12px;
+    font-size: .6rem;
+    padding:.1rem;
+    margin-right: .5rem;
+}
+.academy-1{
+    font-size: .6rem;
+    background-color: lightcyan;
+    border-radius:12px;
+    padding: .3rem;
+    text-decoration: none;
+}
+.heading-sub{
+      text-align: center;
+}
+.heading{
+    width: 45rem;
+    height: 12.7rem;
+    /* margin: 0 0 1rem 29rem; */
+    font-size: 2.8rem;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+    font-weight: 600;
+    background-color:white;
+}
+.sub-heading{
+    font-size: .9rem;
+    height: 120px;
+    width: 20rem;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+    background-color:green;
+}
+.action{
+    gap: ;
+}
+.apply-heading{
+    background-color:blue;
+    text-align: center;
+    margin: 0 1rem;
+    padding: .2rem;
+    border-radius: 3px;
+}
+
+.learn-heading{
+    background-color: blue;
+    text-align: center;
+    padding: .2rem;
+    border-radius: 3px;
+}
+
+.Home-2{
+    background-color:brown;
+}
+
+.Home-3{
+    background-color:chocolate;
+}
+
+.Home-4{
+    background-color:yellowgreen;
+}
+
+.Home-5{
+    background-color:violet;
+}
+
+.Home-6{
+    background-color:cadetblue;
+}
+
+.Home-7{
+    background-color:goldenrod;
+}

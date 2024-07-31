@@ -1,0 +1,143 @@
+/* .Home{
+    padding: .5rem;
+    background-color:green;
+} */
+.Home-1{
+    /* background-color:red; */
+    text-align: center;
+}
+.mark{
+    background-color:white;
+    border-radius:12px;
+    font-size: .6rem;
+    padding:.1rem;
+    margin-right: .5rem;
+}
+.academy-1{
+    font-size: .6rem;
+    background-color: lightcyan;
+    border-radius:12px;
+    padding: .3rem;
+    text-decoration: none;
+}
+.heading-sub-1{
+      text-align: center;
+}
+.heading-1{
+    width: 45rem;
+    height: 12.7rem;
+    font-size: 2.8rem;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+    font-weight: 600;
+    background-color:white;
+}
+.sub-heading-1{
+    font-size: .9rem;
+    height: 120px;
+    width: 20rem;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+}
+.action{
+    gap: 12px;
+    text-decoration: none;
+}
+.apply-heading{
+    background-color:#DEE0FF;
+    text-align: center;
+    margin: 0 1rem;
+    padding: .2rem;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.learn-heading{
+    background-color: blue;
+    text-align: center;
+    padding: .2rem;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.Home-1 img{
+    background-color:none;
+    width: 1180px;
+    height: 516px;
+    margin: 2.9rem 0;
+}
+
+
+.Home-2{
+    background-color:brown;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.heading-sub-2{
+    background-color:red;
+}
+
+.sub-heading-2{
+    font-size: 1rem;
+    color:blue;
+}
+
+.home-chair{
+    flex: 1;
+    padding: 20px;
+}
+
+.heading-sub-2{
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 600;
+    color: #fff;
+    /* margin: 10px -24px; */
+    flex: 1;
+    max-width: 420px;
+    /* padding: 50px; */
+    text-align: left;
+    font-weight: 200;
+}
+
+.Home-2 .img{
+    font-size: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 10px 50px;
+    max-width: 450px;
+}
+
+.Home-2 img{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    text-align: left;
+}
+
+
+.Home-3{
+    background-color:chocolate;
+}
+
+.Home-4{
+    background-color:yellowgreen;
+}
+
+.Home-5{
+    background-color:violet;
+}
+
+.Home-6{
+    background-color:cadetblue;
+}
+
+.Home-7{
+    background-color:goldenrod;
+}

@@ -1,0 +1,440 @@
+/* .Home{
+    padding: 1rem;
+    background-color:green;
+} */
+.Home-1{
+    /* background-color:red; */
+    text-align: center;
+}
+.mark{
+    background-color:white;
+    border-radius:12px;
+    font-size: .6rem;
+    padding:.1rem;
+    margin-right: .5rem;
+}
+.academy-1{
+    font-size: .6rem;
+    background-color: lightcyan;
+    border-radius:12px;
+    padding: .3rem;
+    text-decoration: none;
+}
+.heading-sub-1{
+      text-align: center;
+}
+.heading-1{
+    width: 45rem;
+    height: 12.7rem;
+    font-size: 2.8rem;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+    font-weight: 600;
+    background-color:white;
+}
+.sub-heading-1{
+    font-size: .9rem;
+    height: 120px;
+    width: 20rem;
+    justify-content: center;
+    align-items: center; 
+    margin: 0 auto;
+}
+.action{
+    gap: 12px;
+    text-decoration: none;
+}
+.apply-heading{
+    background-color:#DEE0FF;
+    text-align: center;
+    margin: 0 1rem;
+    padding: .2rem;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.learn-heading{
+    background-color: blue;
+    text-align: center;
+    padding: .2rem;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.Home-1 img{
+    background-color:none;
+    width: 65rem;
+    height: 516px;
+    padding: 1rem;
+    margin: 2.9rem 0;
+}
+
+
+.Home-2{
+    /* background-color:brown; */
+    display: flex;
+    justify-content: space-between;
+    height: 37rem;
+}
+
+.heading-sub-2{
+    /* background-color:red; */
+    font-size: 1.4rem;
+    font-style: normal;
+    color: #fff;
+    text-align: left;
+    max-width: 30rem;
+    text-align: left;
+    height: 35rem;
+    padding: 0 0 0 4rem;
+    margin: 0 0 0 2rem;
+}
+
+.sub-heading-2{
+    font-size: 1rem;
+    color:blue;
+}
+
+.heading-2{
+    font-size: 1.8rem;
+    font-weight: 500;
+    color:blue;
+}
+
+.home-chair{
+    flex: 1;
+}
+
+
+.text-2{
+    font-size: 1rem;
+    color:black;
+}
+
+.apply-now-2{
+    background-color:blue;
+    margin-top:1.8rem;
+    padding: .7rem 2rem .7rem 0;
+    font-size: .7rem;
+    color:white;
+    width: 7rem;
+}
+
+.Home-2 .img{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.Home-2 img{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    height: 35rem;
+    width: 32rem;
+    margin: 0 2.9rem 0 0;
+}
+
+
+.Home-3{
+    /* background-color:chocolate; */
+    text-align: center;
+}
+
+.heading-sub-3{
+    padding: 2.5rem;
+}
+
+.sub-3{
+    color:blue;
+    font-size: .7rem;
+}
+
+.heading-3{
+    color:black;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.text-3{
+    font-size: 1.1rem;
+    width:40rem;
+    display: flex;
+    margin: 0 auto;
+}
+
+.Home-3 img{
+    width: 66rem;
+}
+
+.Home-4{
+    padding: 2rem;
+}
+
+.H-4{
+    padding: 1.5rem;
+}
+.header-sub-4{
+    text-align: center;
+    padding: 1rem;
+}
+
+.sub-header-4{
+    font-size: .8rem;
+    color:blue;
+}
+
+.header-4{
+    font-size: 2rem;
+}
+
+.text-4{
+    font-size: 1.1rem;
+}
+
+.H-4-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+    padding: 2rem;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Adjust the gap between articles as needed */
+  }
+
+
+  .H-4-2 .part-1{
+    height: 12rem;
+    width: 33rem;
+    padding: 2rem;
+    border: 1px rgb(194, 189, 189) solid;
+  }
+  .H-4-2 .part-2{
+    height: 12rem;
+    width: 33rem;
+    padding: 2rem;
+    border: 1px rgb(194, 189, 189) solid;
+  }
+  .H-4-2 .part-3{
+    height: 12rem;
+    width: 33rem;
+    padding: 2rem;
+    border: 1px rgb(194, 189, 189) solid;
+  }
+  .H-4-2 .part-4{
+    height: 12rem;
+    width: 33rem;
+    padding: 2rem;
+    border: 1px rgb(194, 189, 189) solid;
+  }
+  
+  /* .article {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  } */
+  
+  .icon {
+    font-size: 1em;
+    margin-bottom: 10px;
+    text-align: center;
+    color:blue;
+  }
+  
+  .H-4-2 h2 {
+    font-weight: 600;
+    font-size: 1em;
+    text-align: center;
+  }
+
+  .H-4-2 h1{
+    font-weight: 400;
+    font-size: .8rem;
+    text-align: center;
+  }
+  
+  .text-4 {
+    font-size: 1em;
+    margin-top: 10px;
+  }
+  
+
+.Home-5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    background-color:azure;
+}
+
+.Home-5 .heading-sub-5 {
+    font-style: normal;
+    color: black;
+    font-size: .9rem;
+    text-align: left;
+    max-width: 25rem;
+    text-align: left;
+    height: 15rem;
+    padding: 0rem auto;
+    margin: 0 10rem 0 0;
+}
+
+.Home-5 .article{
+    flex: 1;
+    padding: 1rem;
+
+}
+
+.Home-5 .Founder{
+    padding: 1.2rem;
+    width: 27rem;
+}
+
+.Home-5 .img{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.Home-5 img{
+    display: flex;
+    align-items: center;
+    text-align: left;
+    height: 23rem;
+    width: 20rem;
+    margin: 0 0rem 0 0;
+    padding: 2rem 0;
+}
+
+
+
+.Home-6{
+    background-color:aliceblue;
+}
+
+.big-6{
+    padding-top: 2rem;
+}
+
+.Home-6 .sub-Head-6{
+    font-size: .9rem;
+    color:blue;
+    text-align: center;
+}
+
+.Head-6 {
+    font-size: 1.5rem;
+    color:black;
+    font-weight: 500;
+    text-align: center;
+}
+
+.Text-6 {
+    font-size: 1.05rem;
+    text-align: center;
+    color:black;
+    margin: 1.2rem;
+}
+
+
+.Team-6 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3.2rem;
+    margin: 0 0 0 0;
+}
+  
+.Member-61 {
+    flex: 1;
+    padding: 1rem;
+    row-gap: 2;
+}
+  
+.Member-62 {
+    flex: 1;
+    padding: 1rem;
+    row-gap: 2;
+}
+
+.Member-63 {
+    flex: 1;
+    padding: 1rem;
+    row-gap: 2;
+}
+.Member-61 img {
+    width: 21rem;
+    height: 17.5rem;
+}
+
+.Member-62 img {
+    width: 22rem;
+    height: 17.5rem;
+    margin-top: 1.4rem;
+}
+
+.Member-63 img {
+    width: 23rem;
+    height: 18rem;
+}
+  
+.Team-6 h2 {
+    font-size: 1.05em;
+    margin: 10px 0;
+}
+  
+.Team-6 h1 {
+    font-size: .9em;
+    margin: 5px 0;
+}
+  
+
+
+.Home-7{
+    padding: 2rem;
+}
+
+.Home-7 .sub-Head-7{
+    margin: 3rem;
+    text-align: center;
+}
+
+.Home-7 h1{
+    font-size: .9rem;
+    width: 34rem;
+    margin: 0 auto;
+}
+
+.Home-7 h2{
+    font-size: 1.55rem;
+}
+
+.Home-7 .action{
+    text-align: center;
+    background-color:red;
+    height:4rem;
+}
+
+.Home-7 .icon-71{
+    padding:.5rem;
+}
+
+.Home-7 .icon-72{
+    padding:.5rem;
+    color:white;
+}
+
+.Home-7 .icon-72-1{
+    text-align: center;
+    margin: 1rem;
+}
+
+

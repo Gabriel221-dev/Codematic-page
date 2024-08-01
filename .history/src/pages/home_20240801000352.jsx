@@ -264,7 +264,6 @@ function home() {
           </content>
         </container>
       </section>
-      <a href=""> back to top</a>
     </div>
   );
 }

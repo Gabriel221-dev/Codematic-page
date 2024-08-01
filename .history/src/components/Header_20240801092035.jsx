@@ -16,7 +16,7 @@ const Header = () => {
     <>
       <IconContext.Provider value={{ color: "#fff" }}>
         <header className="header">
-          <NavLink className="header__brand" to="/">
+          <a className="header__brand" to="#">
             <img
               className="header__logo"
               src="/Images/codematic-logo-dark-1536x351.png.png"
@@ -24,7 +24,7 @@ const Header = () => {
               loading="eager"
               width="160"
             />
-          </NavLink>
+          </a>
           <nav className="header__nav">
             <ul className="header__navigation">
               <li className="header__link">
@@ -46,7 +46,7 @@ const Header = () => {
                       ? "header__anchor header__anchor--active"
                       : "header__anchor"
                   }
-                  to="/"
+                  to=""
                 >
                   About Us
                 </NavLink>

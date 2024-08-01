@@ -46,7 +46,7 @@ const Header = () => {
                       ? "header__anchor header__anchor--active"
                       : "header__anchor"
                   }
-                  to="/"
+                  to="about us"
                 >
                   About Us
                 </NavLink>

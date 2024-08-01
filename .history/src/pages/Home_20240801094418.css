@@ -96,21 +96,19 @@
 
 /* Tablet styles */
 @media (max-width: 768px) {
-    /* .Home-1{
+    .Home-1{
         background-color:red;
-    } */
+    }
     .heading-1 {
         width: 90%;
         font-size: 2rem;
         height: auto;
-        padding: .2rem 0;
     }
 
     .sub-heading-1 {
         width: 80%;
         font-size: 0.8rem;
         height: auto;
-        padding: 1rem 0;
     }
 
     .Home-1 img {
@@ -177,7 +175,7 @@
 .sub-heading-2{
     font-size: 1rem;
     color:blue;
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .heading-2{
@@ -412,17 +410,14 @@
 .sub-header-4{
     font-size: 1rem;
     color:blue;
-    font-weight: 500;
 }
 
 .header-4{
     font-size: 2rem;
-    font-weight: 600;
 }
 
 .text-4{
     font-size: 1.1rem;
-    font-weight: 350;
 }
 
 .H-4-2 {
@@ -469,6 +464,14 @@
     border: 1px rgb(3, 44, 75) dotted;
     border-radius:16px;
   }
+  
+  /* .article {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  } */
   
   .icon {
     font-size: 1em;
@@ -616,7 +619,6 @@
 
 .Home-5 p{
     font-size: 1rem;
-    padding: 1rem 0;
 }
 
 .Home-5 .img{
@@ -726,7 +728,6 @@
     font-size: .9rem;
     color:blue;
     text-align: center;
-    font-weight: 500;
 }
 
 .Head-6 {

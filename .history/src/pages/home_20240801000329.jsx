@@ -87,7 +87,7 @@ function home() {
         <container>
           <content className="body-3">
             <article className="heading-sub-3">
-              <h3 className="sub-3">Our Goals</h3>
+              <h2 className="sub-3">Our Goals</h2>
               <div className="heading-3">We do things differently...</div>
               <div className="text-3">
                 To rigorously train and create employment opportunities for
@@ -264,7 +264,6 @@ function home() {
           </content>
         </container>
       </section>
-      <a href=""> back to top</a>
     </div>
   );
 }

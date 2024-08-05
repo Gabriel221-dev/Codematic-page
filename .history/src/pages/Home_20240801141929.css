@@ -446,7 +446,6 @@
     border: 1px rgb(3, 44, 75) dotted;
     border-radius:16px;
     margin-left: 2rem;
-
   }
   .H-4-2 .part-2{
     height: 8rem;
@@ -527,10 +526,9 @@
     .H-4-2 .part-2,
     .H-4-2 .part-3,
     .H-4-2 .part-4 {
-        width: 24rem;
+        width: 22rem;
         padding: 1rem;
         height: auto;
-        box-sizing: border-box;
     }
 }
 
@@ -565,10 +563,8 @@
     .H-4-2 .part-2,
     .H-4-2 .part-3,
     .H-4-2 .part-4 {
-        width: 23rem;
-        justify-content: center;
-        margin: 0 auto;
-        /* padding: 1rem; */
+        width: 24rem;
+        padding: 1rem;
         height: auto;
     }
 
@@ -617,7 +613,6 @@
 .Home-5 .Founder{
     padding: 1.2rem;
     width: 27rem;
-    box-sizing: border-box;
 }
 
 .Home-5 p{

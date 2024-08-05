@@ -121,9 +121,9 @@
   
     .header__menu {
       display: flex;
-      /* width: 50px; */
+      width: 50px;
       height: 28px;
-      padding: 0.5rem;
+      /* padding: 0.1rem; */
       border: 0;
       outline: 0;
     }

@@ -436,6 +436,7 @@
     display: flex;
     justify-content: space-between;
     gap: 10px; /* Adjust the gap between articles as needed */
+    box-sizing: border-box;
   }
 
 
@@ -446,7 +447,7 @@
     border: 1px rgb(3, 44, 75) dotted;
     border-radius:16px;
     margin-left: 2rem;
-
+    box-sizing: border-box;
   }
   .H-4-2 .part-2{
     height: 8rem;
@@ -530,7 +531,6 @@
         width: 24rem;
         padding: 1rem;
         height: auto;
-        box-sizing: border-box;
     }
 }
 

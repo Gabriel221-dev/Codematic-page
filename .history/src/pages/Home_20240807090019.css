@@ -1,6 +1,7 @@
 .Home{
     padding: 0 0;
     margin: 0 0;
+    background-color:red;
 }
 .Home-1{
     text-align: center;
@@ -31,6 +32,11 @@
     color:#010ED0;
 
 }
+/* em {
+    width: 16px;
+    height: 16px;
+    background-color:red;
+} */
 .heading-sub-1{
       text-align: center;
       padding-top: 1rem;
@@ -566,6 +572,7 @@
     }
 }
 
+/* iPhone styles */
 @media (max-width: 480px) {
     .Home-4 {
         padding: 1rem;
@@ -618,20 +625,6 @@
     }
 }
 
-@media (max-width:344px) {
-    .H-4-2 .part-1,
-    .H-4-2 .part-2,
-    .H-4-2 .part-3,
-    .H-4-2 .part-4 {
-        width: 19rem;
-        justify-content: center;
-        margin: 0 auto;
-        /* padding: 1rem; */
-        height: auto;
-        box-sizing: border-box;
-
-    }
-}
 
 
 
@@ -1025,6 +1018,7 @@
     width: 35rem;
     text-align: center;
     margin: 0 auto;
+    background-color:blue;
   }
   
   .Home-7 p {
@@ -1073,11 +1067,20 @@
     transition: all 0.3s ease;
   }
   
+  .Home-7 .apply-heading:hover {
+    background-color: blue;
+    color: white;
+  }
+  
   .Home-7 .learn-heading {
     background-color: blue;
     color: white;
     border-radius: 4px;
     transition: all 0.3s ease;
+  }
+  
+  .Home-7 .learn-heading:hover {
+    background-color: darkblue;
   }
   
   /* Tablet styles */
@@ -1095,10 +1098,9 @@
       font-size: 1.8rem;
     }
 
-    .Home-7 .sub-Head-7{
-        width: 75%;
-        padding: 10% ;
-    }
+    /* .Home-7 .sub-Head-7{
+        width: 50%;
+    } */
   
     .Home-7 .action {
       flex-direction: column;

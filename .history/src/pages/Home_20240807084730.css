@@ -1,6 +1,7 @@
 .Home{
     padding: 0 0;
     margin: 0 0;
+    background-color:red;
 }
 .Home-1{
     text-align: center;
@@ -31,6 +32,11 @@
     color:#010ED0;
 
 }
+/* em {
+    width: 16px;
+    height: 16px;
+    background-color:red;
+} */
 .heading-sub-1{
       text-align: center;
       padding-top: 1rem;
@@ -566,6 +572,7 @@
     }
 }
 
+/* iPhone styles */
 @media (max-width: 480px) {
     .Home-4 {
         padding: 1rem;
@@ -618,20 +625,6 @@
     }
 }
 
-@media (max-width:344px) {
-    .H-4-2 .part-1,
-    .H-4-2 .part-2,
-    .H-4-2 .part-3,
-    .H-4-2 .part-4 {
-        width: 19rem;
-        justify-content: center;
-        margin: 0 auto;
-        /* padding: 1rem; */
-        height: auto;
-        box-sizing: border-box;
-
-    }
-}
 
 
 
@@ -641,7 +634,6 @@
     align-items: center;
     padding: 3rem;
     background-color:#F9FAFB;
-    background-color:pink;
 }
 
 .Home-5 .heading-sub-5 {
@@ -1022,14 +1014,14 @@
   
   .Home-7 .sub-Head-7 {
     margin-bottom: 2rem;
-    width: 35rem;
+    width: 43rem;
     text-align: center;
     margin: 0 auto;
   }
   
   .Home-7 p {
     font-size: 1rem;
-    margin: 0 0;
+    margin: 0 auto;
     font-weight: 400;
     color:#475467;
   }
@@ -1073,11 +1065,20 @@
     transition: all 0.3s ease;
   }
   
+  .Home-7 .apply-heading:hover {
+    background-color: blue;
+    color: white;
+  }
+  
   .Home-7 .learn-heading {
     background-color: blue;
     color: white;
     border-radius: 4px;
     transition: all 0.3s ease;
+  }
+  
+  .Home-7 .learn-heading:hover {
+    background-color: darkblue;
   }
   
   /* Tablet styles */
@@ -1093,11 +1094,6 @@
   
     .Home-7 h2 {
       font-size: 1.8rem;
-    }
-
-    .Home-7 .sub-Head-7{
-        width: 75%;
-        padding: 10% ;
     }
   
     .Home-7 .action {

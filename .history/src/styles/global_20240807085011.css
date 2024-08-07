@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    /* line-height: 1.2; */
+    color: #333;
+    background-color: white;
+    padding: 0;
+    margin: 0 ;
+  }
+
+  /* section{
+    padding: 0 10%;
+  } */
+
+  @media (max-width: 768px){
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .Home{
+        margin: 0 0;
+        padding: 0 0;
+    }
+
+  }
+
+
+
+

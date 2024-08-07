@@ -7,15 +7,10 @@
     max-width: 1500px;
     margin: 0 auto;
     box-sizing:border-box;
-
   }
-
-  
  
   .header__nav {
-    align-items: center;
-    display: grid;
-    grid-template-columns: max-content 1fr max-content;
+    display: flex;
     align-items: center;
     font-size: .7rem;
   

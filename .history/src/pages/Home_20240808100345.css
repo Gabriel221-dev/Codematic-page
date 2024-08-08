@@ -1019,6 +1019,76 @@ nav {
 
   }
 
+
+
+
+/* .Home-7{
+    padding: 2rem;
+}
+
+.Home-7 .sub-Head-7{
+    margin: 3rem;
+    text-align: center;
+}
+
+.Home-7 h1{
+    font-size: .9rem;
+    width: 34rem;
+    margin: 0 auto;
+}
+
+.Home-7 h2{
+    font-size: 1.55rem;
+} */
+
+/* .Home-7 .action{
+    text-align: center;
+    height:4rem;
+    gap: 2rem;
+}
+
+.Home-7 .icon-71{
+    padding:.5rem;
+    color:blue;
+}
+
+.Home-7 .icon-72{
+    padding:.5rem;
+    color:white;
+}
+
+.icon-72-1{
+    text-align: center;
+    margin-top: 1rem;
+} */
+
+/* .Home-7 .action {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+  
+.Home-7 .action a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    padding: 0.5rem 1rem;
+}
+  
+.Home-7 .action a .icon-71,
+.Home-7 .action a .icon-72-1 {
+    display: flex;
+    align-items: center;
+    align-items:center;
+    margin-right: 0.5rem; 
+}
+
+.Home-7.apply-heading .icon-71,
+.Home-7 .learn-heading .icon-72-1 {
+    font-size: 1.2rem;
+} */
+
 .Home-7 {
     padding: 6rem 0;
     text-align: center;

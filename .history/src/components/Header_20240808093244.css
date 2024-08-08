@@ -205,11 +205,5 @@
         padding: .5rem;
 
     }
-  }
-
-  @media (max-width:346px){
-    .header{
-        gap: 9.8rem;
-    }
 
   }

@@ -127,7 +127,7 @@
     }
   
     .header__btn {
-      display: none;
+      /* display: none; */
     }
   }
   
@@ -204,12 +204,6 @@
     .header__menu{
         padding: .5rem;
 
-    }
-  }
-
-  @media (max-width:346px){
-    .header{
-        gap: 9.8rem;
     }
 
   }

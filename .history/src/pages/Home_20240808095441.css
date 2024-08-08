@@ -618,6 +618,8 @@ nav {
         width: 24rem;
         padding: 1rem;
         height: auto;
+        text-align: center;
+        justify-content: center;
         box-sizing: border-box;
     }
 }

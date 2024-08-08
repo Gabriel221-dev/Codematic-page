@@ -572,7 +572,7 @@ nav {
   }
 
 /* Tablet styles */
-@media (max-width: 769px) {
+@media (max-width: 768px) {
     .Home-4 {
         padding: 2rem;
         display: flex;

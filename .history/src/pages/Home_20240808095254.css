@@ -572,7 +572,7 @@ nav {
   }
 
 /* Tablet styles */
-@media (max-width: 769px) {
+@media (max-width: 768px) {
     .Home-4 {
         padding: 2rem;
         display: flex;
@@ -593,22 +593,18 @@ nav {
     .text-4 {
         font-size: 1rem;
     }
-    .H-4-1{
+
+    .H-4-2 {
+        padding: 1rem;
         text-align: center;
         justify-content: center;
         margin: 0 auto;
-    }
-    .H-4-2 {
-        padding: 1rem;
-        width: auto;
     }
 
     .row {
         flex-direction: column;
         margin: -1rem ;
         padding: 1rem;
-        text-align: center;
-        justify-content: center;
     }
 
     .H-4-2 .part-1,
